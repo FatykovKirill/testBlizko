@@ -5225,13 +5225,17 @@ header nav .call .social-links .icon-links:hover {
     opacity: 0.5;
 }
 
-.offer-img-fon {
+.offer {
+    padding: 95px;
+}
+
+.offer .offer-img-fon {
     background: url(https://st51.stblizko.ru/images/useful_links/000/097/802_original.png?1645527678) no-repeat center center;
     min-height: 174px;
     margin: 0;
 }
 
-.offer-img-fon .offer-title {
+.offer .offer-img-fon .offer-title {
     color: #ffffff;
     font-weight: 700;
     font-size: 40px;
@@ -5239,7 +5243,7 @@ header nav .call .social-links .icon-links:hover {
     font-family: "Roboto", sans-serif;
 }
 
-.offer-img-fon .offer-subtitle {
+.offer .offer-img-fon .offer-subtitle {
     color: #373737;
     font-weight: 700;
     font-size: 28px;
